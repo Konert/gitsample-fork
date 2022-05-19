@@ -33,6 +33,7 @@ public class Calculator {
 	public Calculator(TextProvider textProvider) {
 		this.textProvider = textProvider;
 		setupDefaultOperations();
+		//test
 	}
 
 	private void setupDefaultOperations() {
